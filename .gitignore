@@ -1,0 +1,43 @@
+hubmapdata
+
+#Various
+*zip
+.DS*
+__pycache*
+download*
+
+### JupyterNotebook ###
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Logs
+*log
+
+# Remove model weights
+*h5
+*h5ad
+
+# Pickles 
+*pkl
+*pickle
+
+# Seurat objects and nbs
+*rds
+*pdf
+
+# Allen images
+*jpg
+*nwb
+*json
+*csv
+*png
+*svg
+*raw
+*xml
+*mhd
+
+# exp map
+*nrrd
+
+# End of https://www.gitignore.io/api/jupyternotebook
+
