@@ -1,10 +1,7 @@
-#hubmapdata
-
 #Various
 *zip
 .DS*
 __pycache*
-download*
 
 ### JupyterNotebook ###
 .ipynb_checkpoints
