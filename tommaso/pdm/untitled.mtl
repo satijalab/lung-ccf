@@ -1,0 +1,11 @@
+# MTL File
+
+newmtl mat_1
+Ns 96.078431
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.5 0.5 0.5
+Ni 1.0
+d 1.0
+illum 2
+
