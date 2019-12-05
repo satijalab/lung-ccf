@@ -1,0 +1,33 @@
+# Markups fiducial file version = 4.10
+# CoordinateSystem = 0
+# columns = id,x,y,z,ow,ox,oy,oz,vis,sel,lock,label,desc,associatedNodeID
+vtkMRMLMarkupsFiducialNode_33,5.129,-162.262,327.143,0.000,0.000,0.000,1.000,0,0,1,Apex_1,,vtkMRMLScalarVolumeNode3
+vtkMRMLMarkupsFiducialNode_35,13.987,-147.005,325.229,0.000,0.000,0.000,1.000,0,0,1,Apex_2,,vtkMRMLScalarVolumeNode3
+vtkMRMLMarkupsFiducialNode_36,80.965,-147.005,268.818,0.000,0.000,0.000,1.000,0,0,1,Apex_3,,vtkMRMLScalarVolumeNode3
+vtkMRMLMarkupsFiducialNode_39,3.862,-125.977,235.728,0.000,0.000,0.000,1.000,0,0,1,Hilum_1,,vtkMRMLScalarVolumeNode3
+vtkMRMLMarkupsFiducialNode_41,-6.652,-134.155,229.458,0.000,0.000,0.000,1.000,0,0,1,Hilum_2,,vtkMRMLScalarVolumeNode3
+vtkMRMLMarkupsFiducialNode_42,4.252,-206.974,149.619,0.000,0.000,0.000,1.000,0,0,1,Hilum_3,,vtkMRMLScalarVolumeNode3
+vtkMRMLMarkupsFiducialNode_46,-76.644,-137.931,264.969,0.000,0.000,0.000,1.000,0,0,1,Superior_oblique_fissure_1,,vtkMRMLScalarVolumeNode3
+vtkMRMLMarkupsFiducialNode_47,-78.339,-138.307,261.998,0.000,0.000,0.000,1.000,0,0,1,Supperior_oblique_fissure_2,,vtkMRMLScalarVolumeNode3
+vtkMRMLMarkupsFiducialNode_48,107.834,-118.968,195.869,0.000,0.000,0.000,1.000,0,0,1,Superior_oblique_fissure_3,,vtkMRMLScalarVolumeNode3
+vtkMRMLMarkupsFiducialNode_49,39.343,-192.753,62.299,0.000,0.000,0.000,1.000,0,0,1,Inferior_oblique_fissure_1,,vtkMRMLScalarVolumeNode3
+vtkMRMLMarkupsFiducialNode_50,36.378,-174.849,96.608,0.000,0.000,0.000,1.000,0,0,1,Inferior_oblique_fissure_2,,vtkMRMLScalarVolumeNode3
+vtkMRMLMarkupsFiducialNode_51,-37.747,-165.083,191.065,0.000,0.000,0.000,1.000,0,0,1,Inferior_oblique_fissure_3,,vtkMRMLScalarVolumeNode3
+vtkMRMLMarkupsFiducialNode_52,-27.680,-203.470,141.368,0.000,0.000,0.000,1.000,0,0,1,Horizontal_fissure_1,,vtkMRMLScalarVolumeNode3
+vtkMRMLMarkupsFiducialNode_54,-26.901,-205.027,134.108,0.000,0.000,0.000,1.000,0,0,1,Horizontal_fissure_2,,vtkMRMLScalarVolumeNode3
+vtkMRMLMarkupsFiducialNode_55,-63.116,-111.180,238.108,0.000,0.000,0.000,1.000,0,0,1,Horizontal_fissure_3,,vtkMRMLScalarVolumeNode3
+vtkMRMLMarkupsFiducialNode_61,-29.464,-117.881,278.745,0.000,0.000,0.000,1.000,0,0,1,Base_left_3,,vtkMRMLScalarVolumeNode3
+vtkMRMLMarkupsFiducialNode_63,63.490,-178.029,57.639,0.000,0.000,0.000,1.000,0,0,1,Base_right_1,,vtkMRMLScalarVolumeNode3
+vtkMRMLMarkupsFiducialNode_64,50.469,-187.771,58.910,0.000,0.000,0.000,1.000,0,0,1,Base_right_2,,vtkMRMLScalarVolumeNode3
+vtkMRMLMarkupsFiducialNode_65,-20.531,-141.602,97.032,0.000,0.000,0.000,1.000,0,0,1,Base_right_3,,vtkMRMLScalarVolumeNode3
+vtkMRMLMarkupsFiducialNode_66,96.949,-148.953,79.665,0.000,0.000,0.000,1.000,0,0,1,Base_anterior_1,,vtkMRMLScalarVolumeNode3
+vtkMRMLMarkupsFiducialNode_67,85.513,-159.044,65.264,0.000,0.000,0.000,1.000,0,0,1,Base_anterior_2,,vtkMRMLScalarVolumeNode3
+vtkMRMLMarkupsFiducialNode_68,-89.423,-133.091,249.518,0.000,0.000,0.000,1.000,0,0,1,Base_anterior_3,,vtkMRMLScalarVolumeNode3
+vtkMRMLMarkupsFiducialNode_69,-112.036,-91.056,56.902,0.000,0.000,0.000,1.000,0,0,1,Base_posterior_1,,vtkMRMLScalarVolumeNode3
+vtkMRMLMarkupsFiducialNode_70,-104.248,-115.719,58.063,0.000,0.000,0.000,1.000,0,0,1,Base_posterior_2,,vtkMRMLScalarVolumeNode3
+vtkMRMLMarkupsFiducialNode_71,92.290,-173.719,208.008,0.000,0.000,0.000,1.000,0,0,1,Base_posterior_3,,vtkMRMLScalarVolumeNode3
+vtkMRMLMarkupsFiducialNode_27,20.494,-97.080,146.337,0.000,0.000,0.000,1.000,0,0,1,Base_left_1,,vtkMRMLScalarVolumeNode1
+vtkMRMLMarkupsFiducialNode_28,12.964,-83.902,127.526,0.000,0.000,0.000,1.000,0,0,1,Base_left_2,,vtkMRMLScalarVolumeNode1
+vtkMRMLMarkupsFiducialNode_29,52.993,-116.703,151.982,0.000,0.000,0.000,1.000,0,0,1,Lower_cardiac_notch_1,,vtkMRMLScalarVolumeNode1
+vtkMRMLMarkupsFiducialNode_30,43.983,-106.937,155.258,0.000,0.000,0.000,1.000,0,0,1,Lower_cardiac_notch_2,,vtkMRMLScalarVolumeNode1
+vtkMRMLMarkupsFiducialNode_31,-8.873,-94.821,213.716,0.000,0.000,0.000,1.000,0,0,1,Lower_cardiac_notch_3,,vtkMRMLScalarVolumeNode1
